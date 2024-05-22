@@ -10,8 +10,8 @@ In this course, We will learn how to use scikit-learn to build predictive models
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                 |
-|---------|----------------------------------------------------------|--------------|---------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                 |
+|---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------|
 |      01 | 📖 Linear Models in Scikit-Learn                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71093'>Start Lab</a> |
 |      02 | 📖 Linear and Quadratic Discriminant Analysis            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71094'>Start Lab</a> |
 |      03 | 📖 Exploring Scikit-Learn Datasets and Estimators        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71095'>Start Lab</a> |
