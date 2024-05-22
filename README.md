@@ -28,4 +28,3 @@ In this course, We will learn how to use scikit-learn to build predictive models
 |      14 | 📖 Naive Bayes Example                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71106'>Start Lab</a> |
 |      15 | 📖 Decision Tree Classification with Scikit-Learn        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71107'>Start Lab</a> |
 
-> Updated at: 2024-05-21T05:52:56Z
