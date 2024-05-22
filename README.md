@@ -5,7 +5,7 @@
 In this course, We will learn how to use scikit-learn to build predictive models from data. We will explore the basic concepts of machine learning and see how to use scikit-learn to solve supervised and unsupervised learning problems. We will also learn how to evaluate models, tune parameters, and avoid common pitfalls. We will work through examples of machine learning problems using real-world datasets.
 
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-whitesmoke?style=for-the-badge&logo=scikit-learn)
-![Machine Learning](https://img.shields.io/badge/Machine Learning-whitesmoke?style=for-the-badge&logo=machine learning)
+![Machine-Learning](https://img.shields.io/badge/Machine-Learning-whitesmoke?style=for-the-badge&logo=machine-learning)
 
 
 ## Scenarios
