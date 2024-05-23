@@ -10,7 +10,7 @@ In this course, We will learn how to use scikit-learn to build predictive models
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                 |
+|   Index | Name                                                    | Difficulty   | Practice                                                            |
 |---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------|
 |      01 | 📖 Linear Models in Scikit-Learn                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71093'>Start Lab</a> |
 |      02 | 📖 Linear and Quadratic Discriminant Analysis            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71094'>Start Lab</a> |
@@ -27,4 +27,9 @@ In this course, We will learn how to use scikit-learn to build predictive models
 |      13 | 📖 Dimensional Reduction with PLS Algorithms             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71105'>Start Lab</a> |
 |      14 | 📖 Naive Bayes Example                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71106'>Start Lab</a> |
 |      15 | 📖 Decision Tree Classification with Scikit-Learn        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71107'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
 
