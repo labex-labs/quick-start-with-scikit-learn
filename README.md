@@ -30,7 +30,7 @@ In this course, We will learn how to use scikit-learn to build predictive models
 
 ## More
 
-- 🔗 [scikit-learn Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [scikit-learn Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- 🔗 [Data Science Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Data Science Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 
