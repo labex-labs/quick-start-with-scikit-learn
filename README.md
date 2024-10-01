@@ -26,19 +26,19 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                              |
-|---------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Practice                                                                                                                              |
+|---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Linear Models in Scikit-Learn                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-linear-models-in-scikit-learn-71093'>Start Lab</a>                             |
 |      02 | 📖 Discriminant Analysis Classifiers Explained           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-discriminant-analysis-classifiers-explained-71094'>Start Lab</a>               |
 |      03 | 📖 Exploring Scikit-Learn Datasets and Estimators        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-exploring-scikit-learn-datasets-and-estimators-71095'>Start Lab</a>            |
 |      04 | 📖 Kernel Ridge Regression                               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-kernel-ridge-regression-71096'>Start Lab</a>                                   |
 |      05 | 📖 Supervised Learning with Scikit-Learn                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-supervised-learning-with-scikit-learn-71097'>Start Lab</a>                     |
 |      06 | 📖 Model Selection: Choosing Estimators and Their Par... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-model-selection-choosing-estimators-and-their-parameters-71098'>Start Lab</a>  |
-|      07 | 📖 Supervised Learning With Support Vectors              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-supervised-learning-with-support-vectors-71099'>Start Lab</a>                  |
+|      07 | 📖 Supervised Learning with Support Vectors              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-supervised-learning-with-support-vectors-71099'>Start Lab</a>                  |
 |      08 | 📖 Exploring Scikit-Learn SGD Classifiers                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-exploring-scikit-learn-sgd-classifiers-71100'>Start Lab</a>                    |
 |      09 | 📖 Unsupervised Learning: Seeking Representations of ... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-unsupervised-learning-seeking-representations-of-the-data-71101'>Start Lab</a> |
 |      10 | 📖 Implementing Stochastic Gradient Descent              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-implementing-stochastic-gradient-descent-71102'>Start Lab</a>                  |
-|      11 | 📖 Working With Text Data                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-working-with-text-data-71103'>Start Lab</a>                                    |
+|      11 | 📖 Working with Text Data                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-working-with-text-data-71103'>Start Lab</a>                                    |
 |      12 | 📖 Gaussian Process Regression and Classification        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-gaussian-process-regression-and-classification-71104'>Start Lab</a>            |
 |      13 | 📖 Dimensional Reduction with PLS Algorithms             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-dimensional-reduction-with-pls-algorithms-71105'>Start Lab</a>                 |
 |      14 | 📖 Naive Bayes Example                                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-naive-bayes-example-71106'>Start Lab</a>                                       |
