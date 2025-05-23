@@ -32,24 +32,24 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                           | 難易度   | 練習                                                                                                                                      |
 |----------------|------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 Scikit - Learn における線形モデル           | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-linear-models-in-scikit-learn-71093'>ラボを開始</a>                             |
-|             02 | 📖 判別分析分類器の解説                        | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-discriminant-analysis-classifiers-explained-71094'>ラボを開始</a>               |
-|             03 | 📖 Scikit - Learn のデータセットと推定器を探る | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-exploring-scikit-learn-datasets-and-estimators-71095'>ラボを開始</a>            |
-|             04 | 📖 カーネルリッジ回帰                          | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-kernel-ridge-regression-71096'>ラボを開始</a>                                   |
-|             05 | 📖 Scikit - Learn を使った教師あり学習         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-supervised-learning-with-scikit-learn-71097'>ラボを開始</a>                     |
-|             06 | 📖 モデル選択：推定器とそのパラメータの選択    | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-model-selection-choosing-estimators-and-their-parameters-71098'>ラボを開始</a>  |
-|             07 | 📖 サポートベクターを用いた教師あり学習        | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-supervised-learning-with-support-vectors-71099'>ラボを開始</a>                  |
-|             08 | 📖 Scikit - Learn の SGD 分類器を探索する      | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-exploring-scikit-learn-sgd-classifiers-71100'>ラボを開始</a>                    |
-|             09 | 📖 教師なし学習：データの表現を求めて          | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-unsupervised-learning-seeking-representations-of-the-data-71101'>ラボを開始</a> |
-|             10 | 📖 確率的勾配降下法の実装                      | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-implementing-stochastic-gradient-descent-71102'>ラボを開始</a>                  |
-|             11 | 📖 テキストデータの扱い方                      | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-working-with-text-data-71103'>ラボを開始</a>                                    |
-|             12 | 📖 ガウス過程回帰と分類                        | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-gaussian-process-regression-and-classification-71104'>ラボを開始</a>            |
-|             13 | 📖 ナイーブベイズの例                          | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-naive-bayes-example-71106'>ラボを開始</a>                                       |
-|             14 | 📖 Scikit-learn を用いた決定木分類             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/ml-decision-tree-classification-with-scikit-learn-71107'>ラボを開始</a>            |
+|             01 | 📖 Scikit - Learn における線形モデル           | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-linear-models-in-scikit-learn-71093'>ラボを開始</a>                             |
+|             02 | 📖 判別分析分類器の解説                        | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-discriminant-analysis-classifiers-explained-71094'>ラボを開始</a>               |
+|             03 | 📖 Scikit - Learn のデータセットと推定器を探る | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-exploring-scikit-learn-datasets-and-estimators-71095'>ラボを開始</a>            |
+|             04 | 📖 カーネルリッジ回帰                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-kernel-ridge-regression-71096'>ラボを開始</a>                                   |
+|             05 | 📖 Scikit - Learn を使った教師あり学習         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-supervised-learning-with-scikit-learn-71097'>ラボを開始</a>                     |
+|             06 | 📖 モデル選択：推定器とそのパラメータの選択    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-model-selection-choosing-estimators-and-their-parameters-71098'>ラボを開始</a>  |
+|             07 | 📖 サポートベクターを用いた教師あり学習        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-supervised-learning-with-support-vectors-71099'>ラボを開始</a>                  |
+|             08 | 📖 Scikit - Learn の SGD 分類器を探索する      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-exploring-scikit-learn-sgd-classifiers-71100'>ラボを開始</a>                    |
+|             09 | 📖 教師なし学習：データの表現を求めて          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-unsupervised-learning-seeking-representations-of-the-data-71101'>ラボを開始</a> |
+|             10 | 📖 確率的勾配降下法の実装                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-implementing-stochastic-gradient-descent-71102'>ラボを開始</a>                  |
+|             11 | 📖 テキストデータの扱い方                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-working-with-text-data-71103'>ラボを開始</a>                                    |
+|             12 | 📖 ガウス過程回帰と分類                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-gaussian-process-regression-and-classification-71104'>ラボを開始</a>            |
+|             13 | 📖 ナイーブベイズの例                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-naive-bayes-example-71106'>ラボを開始</a>                                       |
+|             14 | 📖 Scikit-learn を用いた決定木分類             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/ml-decision-tree-classification-with-scikit-learn-71107'>ラボを開始</a>            |
 
 ## その他
 
-- 🔗 [scikit-learn Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [scikit-learn Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- 🔗 [scikit-learn プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [scikit-learn 無料チュートリアル](https://github.com/labex-labs/sklearn-free-tutorials)
 
