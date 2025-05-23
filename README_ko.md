@@ -32,24 +32,24 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                                     | 난이도   | 연습                                                                                                                                     |
 |----------|----------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Linear Models in Scikit-Learn                         | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-linear-models-in-scikit-learn-71093'>실습 시작</a>                             |
-|       02 | 📖 Discriminant Analysis Classifiers Explained           | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-discriminant-analysis-classifiers-explained-71094'>실습 시작</a>               |
-|       03 | 📖 Exploring Scikit-Learn Datasets and Estimators        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-exploring-scikit-learn-datasets-and-estimators-71095'>실습 시작</a>            |
-|       04 | 📖 Kernel Ridge Regression                               | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-kernel-ridge-regression-71096'>실습 시작</a>                                   |
-|       05 | 📖 Supervised Learning with Scikit-Learn                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-supervised-learning-with-scikit-learn-71097'>실습 시작</a>                     |
-|       06 | 📖 Model Selection: Choosing Estimators and Their Par... | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-model-selection-choosing-estimators-and-their-parameters-71098'>실습 시작</a>  |
-|       07 | 📖 Supervised Learning with Support Vectors              | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-supervised-learning-with-support-vectors-71099'>실습 시작</a>                  |
-|       08 | 📖 Exploring Scikit-Learn SGD Classifiers                | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-exploring-scikit-learn-sgd-classifiers-71100'>실습 시작</a>                    |
-|       09 | 📖 Unsupervised Learning: Seeking Representations of ... | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-unsupervised-learning-seeking-representations-of-the-data-71101'>실습 시작</a> |
-|       10 | 📖 Implementing Stochastic Gradient Descent              | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-implementing-stochastic-gradient-descent-71102'>실습 시작</a>                  |
-|       11 | 📖 Working with Text Data                                | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-working-with-text-data-71103'>실습 시작</a>                                    |
-|       12 | 📖 Gaussian Process Regression and Classification        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-gaussian-process-regression-and-classification-71104'>실습 시작</a>            |
-|       13 | 📖 Naive Bayes Example                                   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-naive-bayes-example-71106'>실습 시작</a>                                       |
-|       14 | 📖 Decision Tree Classification with Scikit-Learn        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/ml-decision-tree-classification-with-scikit-learn-71107'>실습 시작</a>            |
+|       01 | 📖 Linear Models in Scikit-Learn                         | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-linear-models-in-scikit-learn-71093'>실습 시작</a>                             |
+|       02 | 📖 Discriminant Analysis Classifiers Explained           | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-discriminant-analysis-classifiers-explained-71094'>실습 시작</a>               |
+|       03 | 📖 Exploring Scikit-Learn Datasets and Estimators        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-exploring-scikit-learn-datasets-and-estimators-71095'>실습 시작</a>            |
+|       04 | 📖 Kernel Ridge Regression                               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-kernel-ridge-regression-71096'>실습 시작</a>                                   |
+|       05 | 📖 Supervised Learning with Scikit-Learn                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-supervised-learning-with-scikit-learn-71097'>실습 시작</a>                     |
+|       06 | 📖 Model Selection: Choosing Estimators and Their Par... | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-model-selection-choosing-estimators-and-their-parameters-71098'>실습 시작</a>  |
+|       07 | 📖 Supervised Learning with Support Vectors              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-supervised-learning-with-support-vectors-71099'>실습 시작</a>                  |
+|       08 | 📖 Exploring Scikit-Learn SGD Classifiers                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-exploring-scikit-learn-sgd-classifiers-71100'>실습 시작</a>                    |
+|       09 | 📖 Unsupervised Learning: Seeking Representations of ... | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-unsupervised-learning-seeking-representations-of-the-data-71101'>실습 시작</a> |
+|       10 | 📖 Implementing Stochastic Gradient Descent              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-implementing-stochastic-gradient-descent-71102'>실습 시작</a>                  |
+|       11 | 📖 Working with Text Data                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-working-with-text-data-71103'>실습 시작</a>                                    |
+|       12 | 📖 Gaussian Process Regression and Classification        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-gaussian-process-regression-and-classification-71104'>실습 시작</a>            |
+|       13 | 📖 Naive Bayes Example                                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-naive-bayes-example-71106'>실습 시작</a>                                       |
+|       14 | 📖 Decision Tree Classification with Scikit-Learn        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/ml-decision-tree-classification-with-scikit-learn-71107'>실습 시작</a>            |
 
 ## 더 보기
 
-- 🔗 [scikit-learn Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [scikit-learn Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- 🔗 [scikit-learn 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [scikit-learn 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [scikit-learn 무료 튜토리얼](https://github.com/labex-labs/sklearn-free-tutorials)
 
