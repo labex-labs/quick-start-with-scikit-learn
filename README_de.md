@@ -14,6 +14,25 @@ In diesem Kurs lernen wir, wie wir scikit-learn nutzen können, um prädiktive M
 ![Machine-Learning](https://img.shields.io/badge/Machine-Learning-whitesmoke?style=for-the-badge&logo=machine-learning)
 
 
+## Übungen
+
+|   Index | Name                                                        | Schwierigkeit   | Übung                                                                                                                                        |
+|---------|-------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Lineare Modelle in Scikit-Learn                       | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/ml-linear-models-in-scikit-learn-71093'>Labor Starten</a>                             |
+|      02 | 📖 🟢 Erklärung der Diskriminanzanalyse-Klassifikatoren     | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/ml-discriminant-analysis-classifiers-explained-71094'>Labor Starten</a>               |
+|      03 | 📖 🟢 Das Entdecken von Scikit-Learn-Datensätzen und -Sc... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-exploring-scikit-learn-datasets-and-estimators-71095'>Labor Starten</a>            |
+|      04 | 📖 🟢 Kernel Ridge Regression                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-kernel-ridge-regression-71096'>Labor Starten</a>                                   |
+|      05 | 📖 🟢 Supervised Learning mit Scikit-Learn                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-supervised-learning-with-scikit-learn-71097'>Labor Starten</a>                     |
+|      06 | 📖 🟢 Modellauswahl: Auswahl von Schätzern und deren Par... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-model-selection-choosing-estimators-and-their-parameters-71098'>Labor Starten</a>  |
+|      07 | 📖 🟢 Überwachtes Lernen mit Supportvektoren                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-supervised-learning-with-support-vectors-71099'>Labor Starten</a>                  |
+|      08 | 📖 🟢 Das Entdecken von Scikit-Learn SGD-Klassifizierern    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-exploring-scikit-learn-sgd-classifiers-71100'>Labor Starten</a>                    |
+|      09 | 📖 🟢 Unüberwachtes Lernen: Suche nach Repräsentationen ... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-unsupervised-learning-seeking-representations-of-the-data-71101'>Labor Starten</a> |
+|      10 | 📖 🟢 Implementierung des stochastischen Gradientenabsti... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-implementing-stochastic-gradient-descent-71102'>Labor Starten</a>                  |
+|      11 | 📖 🔵 Arbeiten mit Text-Daten                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-working-with-text-data-71103'>Labor Starten</a>                                    |
+|      12 | 📖 🟢 Gaussian Process Regression und Klassifikation        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-gaussian-process-regression-and-classification-71104'>Labor Starten</a>            |
+|      13 | 📖 🟢 Naives Bayes-Beispiel                                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-naive-bayes-example-71106'>Labor Starten</a>                                       |
+|      14 | 📖 🟢 Entscheidungsbaum-Klassifizierung mit Scikit-Learn    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-decision-tree-classification-with-scikit-learn-71107'>Labor Starten</a>            |
+
 ## Umgebung
 
 LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung.
@@ -24,28 +43,9 @@ LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Tec
 - Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
 - Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
 - Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der KI-Lernassistent Labby, aufgebaut auf ChatGPT, bietet eine konversationelle Lernerfahrung.
+- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
 
 Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Übungen
-
-|   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                                        |
-|---------|----------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Lineare Modelle in Scikit-Learn                       | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/ml-linear-models-in-scikit-learn-71093'>Labor Starten</a>                             |
-|      02 | 📖 Erklärung der Diskriminanzanalyse-Klassifikatoren     | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/ml-discriminant-analysis-classifiers-explained-71094'>Labor Starten</a>               |
-|      03 | 📖 Das Entdecken von Scikit-Learn-Datensätzen und -Sc... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-exploring-scikit-learn-datasets-and-estimators-71095'>Labor Starten</a>            |
-|      04 | 📖 Kernel Ridge Regression                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-kernel-ridge-regression-71096'>Labor Starten</a>                                   |
-|      05 | 📖 Supervised Learning mit Scikit-Learn                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-supervised-learning-with-scikit-learn-71097'>Labor Starten</a>                     |
-|      06 | 📖 Modellauswahl: Auswahl von Schätzern und deren Par... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-model-selection-choosing-estimators-and-their-parameters-71098'>Labor Starten</a>  |
-|      07 | 📖 Überwachtes Lernen mit Supportvektoren                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-supervised-learning-with-support-vectors-71099'>Labor Starten</a>                  |
-|      08 | 📖 Das Entdecken von Scikit-Learn SGD-Klassifizierern    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-exploring-scikit-learn-sgd-classifiers-71100'>Labor Starten</a>                    |
-|      09 | 📖 Unüberwachtes Lernen: Suche nach Repräsentationen ... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-unsupervised-learning-seeking-representations-of-the-data-71101'>Labor Starten</a> |
-|      10 | 📖 Implementierung des stochastischen Gradientenabsti... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-implementing-stochastic-gradient-descent-71102'>Labor Starten</a>                  |
-|      11 | 📖 Arbeiten mit Text-Daten                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-working-with-text-data-71103'>Labor Starten</a>                                    |
-|      12 | 📖 Gaussian Process Regression und Klassifikation        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-gaussian-process-regression-and-classification-71104'>Labor Starten</a>            |
-|      13 | 📖 Naives Bayes-Beispiel                                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-naive-bayes-example-71106'>Labor Starten</a>                                       |
-|      14 | 📖 Entscheidungsbaum-Klassifizierung mit Scikit-Learn    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/ml-decision-tree-classification-with-scikit-learn-71107'>Labor Starten</a>            |
 
 ## Mehr
 
