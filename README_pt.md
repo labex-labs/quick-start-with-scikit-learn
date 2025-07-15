@@ -14,6 +14,25 @@ Neste curso, aprenderemos como usar scikit-learn para construir modelos preditiv
 ![Machine-Learning](https://img.shields.io/badge/Machine-Learning-whitesmoke?style=for-the-badge&logo=machine-learning)
 
 
+## Exercícios
+
+|   Índice | Nome                                                        | Dificuldade   | Prática                                                                                                                                    |
+|----------|-------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Modelos Lineares no Scikit-Learn                      | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/ml-linear-models-in-scikit-learn-71093'>Iniciar Lab</a>                             |
+|       02 | 📖 🟢 Classificadores de Análise Discriminante Explicado... | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/ml-discriminant-analysis-classifiers-explained-71094'>Iniciar Lab</a>               |
+|       03 | 📖 🟢 Explorando Conjuntos de Dados e Estimadores Scikit... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-exploring-scikit-learn-datasets-and-estimators-71095'>Iniciar Lab</a>            |
+|       04 | 📖 🟢 Regressão de Ridge com Kernel                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-kernel-ridge-regression-71096'>Iniciar Lab</a>                                   |
+|       05 | 📖 🟢 Aprendizado Supervisionado com Scikit-Learn           | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-supervised-learning-with-scikit-learn-71097'>Iniciar Lab</a>                     |
+|       06 | 📖 🟢 Seleção de Modelos: Escolhendo Estimadores e seus ... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-model-selection-choosing-estimators-and-their-parameters-71098'>Iniciar Lab</a>  |
+|       07 | 📖 🟢 Aprendizado Supervisionado com Vetores de Suporte     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-supervised-learning-with-support-vectors-71099'>Iniciar Lab</a>                  |
+|       08 | 📖 🟢 Explorando Classificadores SGD do Scikit-Learn        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-exploring-scikit-learn-sgd-classifiers-71100'>Iniciar Lab</a>                    |
+|       09 | 📖 🟢 Aprendizagem Não Supervisionada: Buscando Represen... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-unsupervised-learning-seeking-representations-of-the-data-71101'>Iniciar Lab</a> |
+|       10 | 📖 🟢 Implementação do Gradiente Descendente Estocástico    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-implementing-stochastic-gradient-descent-71102'>Iniciar Lab</a>                  |
+|       11 | 📖 🔵 Trabalhando com Dados de Texto                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-working-with-text-data-71103'>Iniciar Lab</a>                                    |
+|       12 | 📖 🟢 Regressão e Classificação por Processos Gaussianos    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-gaussian-process-regression-and-classification-71104'>Iniciar Lab</a>            |
+|       13 | 📖 🟢 Exemplo de Naive Bayes                                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-naive-bayes-example-71106'>Iniciar Lab</a>                                       |
+|       14 | 📖 🟢 Classificação com Árvores de Decisão usando Scikit... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-decision-tree-classification-with-scikit-learn-71107'>Iniciar Lab</a>            |
+
 ## Ambiente
 
 LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos.
@@ -24,28 +43,9 @@ LabEx é uma plataforma de aprendizagem interativa e prática dedicada à progra
 - Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
 - Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
 - Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
-- O assistente de aprendizagem de IA Labby, construído sobre ChatGPT, fornecendo uma experiência de aprendizagem conversacional.
+- O assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercícios
-
-|   Índice | Nome                                                     | Dificuldade   | Prática                                                                                                                                    |
-|----------|----------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Linear Models in Scikit-Learn                         | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/ml-linear-models-in-scikit-learn-71093'>Iniciar Lab</a>                             |
-|       02 | 📖 Discriminant Analysis Classifiers Explained           | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/ml-discriminant-analysis-classifiers-explained-71094'>Iniciar Lab</a>               |
-|       03 | 📖 Exploring Scikit-Learn Datasets and Estimators        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-exploring-scikit-learn-datasets-and-estimators-71095'>Iniciar Lab</a>            |
-|       04 | 📖 Kernel Ridge Regression                               | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-kernel-ridge-regression-71096'>Iniciar Lab</a>                                   |
-|       05 | 📖 Supervised Learning with Scikit-Learn                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-supervised-learning-with-scikit-learn-71097'>Iniciar Lab</a>                     |
-|       06 | 📖 Model Selection: Choosing Estimators and Their Par... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-model-selection-choosing-estimators-and-their-parameters-71098'>Iniciar Lab</a>  |
-|       07 | 📖 Supervised Learning with Support Vectors              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-supervised-learning-with-support-vectors-71099'>Iniciar Lab</a>                  |
-|       08 | 📖 Exploring Scikit-Learn SGD Classifiers                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-exploring-scikit-learn-sgd-classifiers-71100'>Iniciar Lab</a>                    |
-|       09 | 📖 Unsupervised Learning: Seeking Representations of ... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-unsupervised-learning-seeking-representations-of-the-data-71101'>Iniciar Lab</a> |
-|       10 | 📖 Implementing Stochastic Gradient Descent              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-implementing-stochastic-gradient-descent-71102'>Iniciar Lab</a>                  |
-|       11 | 📖 Working with Text Data                                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-working-with-text-data-71103'>Iniciar Lab</a>                                    |
-|       12 | 📖 Gaussian Process Regression and Classification        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-gaussian-process-regression-and-classification-71104'>Iniciar Lab</a>            |
-|       13 | 📖 Naive Bayes Example                                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-naive-bayes-example-71106'>Iniciar Lab</a>                                       |
-|       14 | 📖 Decision Tree Classification with Scikit-Learn        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/ml-decision-tree-classification-with-scikit-learn-71107'>Iniciar Lab</a>            |
 
 ## Mais
 
